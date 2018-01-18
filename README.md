@@ -1,3 +1,0 @@
-# Shunya
-It's a Start
-Go...
